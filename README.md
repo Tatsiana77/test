@@ -1,5 +1,5 @@
 git # test
-* testing out first repo
+* testing our first repo
 ## title 2
 > test заголовка
 ### title3
